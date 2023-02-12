@@ -1,0 +1,45 @@
+{
+    "name": "Tot #4711",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/4711.gif",
+    "description": "The character from the Air Element village is a free-spirited and curious individual, who has a deep connection to the sky. They use their agility and intelligence to explore and connect their community, always striving for knowledge.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Air"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Antique"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Shoes"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Skirt"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Stripe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses Rare"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Beard Ginger"
+        },
+        {
+            "trait_type": "Chicks",
+            "value": "Scarlet Blush"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gentleman Baige"
+        }
+    ]
+}

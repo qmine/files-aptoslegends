@@ -1,0 +1,45 @@
+{
+    "name": "Tot #2078",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/2078.gif",
+    "description": "The character from the Stone Element village is a sturdy and steadfast individual, who has a deep connection to the earth. They use their durability and determination to support and protect their community, always striving for security.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sienna"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Basic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses Easteregg"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick Pink"
+        },
+        {
+            "trait_type": "Chicks",
+            "value": "Tinted Blush"
+        },
+        {
+            "trait_type": "Earrings",
+            "value": "Silver Emerald Earrings"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ponytail Green"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Tot #1944",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/1944.gif",
+    "description": "The character from the Stone Element village is a sturdy and steadfast individual, who has a deep connection to the earth. They use their durability and determination to support and protect their community, always striving for security.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kobicha"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Shoes"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Skirt"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lips"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spacebuns Brown"
+        }
+    ]
+}

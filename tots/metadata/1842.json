@@ -1,0 +1,37 @@
+{
+    "name": "Tot #1842",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/1842.gif",
+    "description": "The character from the Flora Element village is a wise and nurturing individual, who has a deep connection to the wilderness. They use their intuition and empathy to care for and preserve their community, always striving for balance.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Flora"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bole"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses Nosun"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lips"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Witch Hat"
+        }
+    ]
+}

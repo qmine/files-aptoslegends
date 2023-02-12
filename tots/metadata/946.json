@@ -1,0 +1,45 @@
+{
+    "name": "Tot #946",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/946.gif",
+    "description": "The character from the Neutral Element village is a balanced and level-headed individual, who values fairness and equality. They use their impartiality and rationality to mediate and resolve conflicts in their community, always striving for justice.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Acajou"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Overalls"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes Lightgreen"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick Red"
+        },
+        {
+            "trait_type": "Chicks",
+            "value": "Severe Blush"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "French Curl Purple"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Hat of Luck"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Tot #3969",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/3969.gif",
+    "description": "The character from the Water Element village is a skilled and compassionate person, who has a strong connection to the forces of nature. They use their abilities to help and heal those in their community, always striving for harmony.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Acajou"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Shoes"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spaghetti"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes Deepblue"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lips"
+        },
+        {
+            "trait_type": "Chicks",
+            "value": "Tinted Blush"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braids Mint"
+        }
+    ]
+}

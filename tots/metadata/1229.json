@@ -1,0 +1,41 @@
+{
+    "name": "Tot #1229",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/1229.gif",
+    "description": "The character from the Lightning Element village is a dynamic and electric individual, who has a strong connection to the energy of the sky. They use their quickness and intensity to shock and excite their community, always striving for innovation.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kobicha"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Shoes"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spaghetti"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spacebuns Mint"
+        }
+    ]
+}

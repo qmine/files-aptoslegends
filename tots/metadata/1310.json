@@ -1,0 +1,37 @@
+{
+    "name": "Tot #1310",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots/nft/1310.gif",
+    "description": "The character from the Fire Element village is a passionate and charismatic individual, who has a strong connection to the flames. They use their energy and enthusiasm to inspire and lead their community, always striving for growth.",
+    "seller_fee_basis_points": 700,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Sienna"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Floral"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lips"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ponytail Beige"
+        }
+    ]
+}
