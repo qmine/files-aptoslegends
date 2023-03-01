@@ -1,0 +1,41 @@
+{
+    "name": "Tot #1487",
+    "symbol": "TOT",
+    "image": "https://files.aptoslegends.xyz/tots2/nft/1487.gif",
+    "description": "The character from the Earth Element village is a hardworking and grounded individual, who has a deep connection to the land. They use their strength and determination to cultivate and protect their community, always striving for prosperity.",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "Village",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bole"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Dress"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glasses Dragonvision"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Beard Black"
+        },
+        {
+            "trait_type": "Chicks",
+            "value": "Shy Blush"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Ponytail Green"
+        }
+    ]
+}
